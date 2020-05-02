@@ -15,9 +15,9 @@ In this repository, I have developed an SMS spam detector using logistic regress
 The .csv file contains message(text) as well as it's spam or not(type)
 
 ## Modeling:
-Feature Engineering: Tokenizer, CountVectorizer, Tfidf, has_uppercase
-ML: Logistic Regression with cross validation
-Feature Importance: Most poitive/ negative words
+1. Feature Engineering: Tokenizer, CountVectorizer, Tfidf, has_uppercase
+2. ML: Logistic Regression with cross validation
+3. Feature Importance: Most poitive/ negative words
 
 ## Blog:
 Read the entire article on Medium: https://towardsdatascience.com/sms-spam-detector-499f31515f14
